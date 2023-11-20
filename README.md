@@ -1,6 +1,6 @@
 # EX-1: SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-### DATE: 
+### DATE: 26/09/2023
 ### AIM:
  To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
@@ -9,13 +9,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
 ### REQUIREMENTS:
-  ●	Mech Analyzer software.
-  ●	Processor: Minimum 1.5 GHz
-  ●	RAM: Minimum 512 MB
-  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
-  ●	Dependencies: Microsoft .Net 2.0 framework
-  ●	Mini Drafter.
-  ●	Geometry instruments.
+  ●	Mech Analyzer software.<br>
+  ●	Processor: Minimum 1.5 GHz<br>
+  ●	RAM: Minimum 512 MB<br>
+  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.<br>
+  ●	Dependencies: Microsoft .Net 2.0 framework<br>
+  ●	Mini Drafter.<br>
+  ●	Geometry instruments.<br>
 
 ### PROCEDURE:
    1. Draw a horizontal line AD of length 120 mm. 
@@ -51,7 +51,11 @@
 
 
 ## Output:
+![image](https://github.com/22002102/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119091638/98c37e71-3f56-4134-86b2-dee19835416b)
 
+![image](https://github.com/22002102/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119091638/dbf2d85a-bacd-4d58-a999-26ffa3c33ac4)
+
+![image](https://github.com/22002102/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119091638/acf773e6-3257-4f68-9860-dfac859527ea)
 
 ### Name: SANJAY S
 ### Register Number: 212222230132 
