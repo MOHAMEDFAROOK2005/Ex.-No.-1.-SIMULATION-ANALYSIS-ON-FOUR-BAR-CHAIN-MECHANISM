@@ -57,8 +57,8 @@
 
 ![image](https://github.com/22002102/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119091638/acf773e6-3257-4f68-9860-dfac859527ea)
 
-### Name: SANJAY S
-### Register Number: 212222230132 
+### Name: MOHAMED FAROOK S
+### Register Number: 212223110029
 
 ### RESULT:
   Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
