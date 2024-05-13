@@ -1,6 +1,6 @@
 # EX-1: SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-### DATE: 26/09/2023
+
 ### AIM:
  To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
@@ -58,7 +58,7 @@
 ![image](https://github.com/22002102/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119091638/acf773e6-3257-4f68-9860-dfac859527ea)
 
 ### Name: MOHAMED FAROOK S
-### Register Number: 212223110029
+### Register Number: 23014058
 
 ### RESULT:
   Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
